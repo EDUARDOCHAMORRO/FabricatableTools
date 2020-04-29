@@ -32,7 +32,7 @@ End Effector to extrude medium/thick pastes to 100ml capacity
 **W.I.P WORK IN PROGRESS-NOT FINISHED YET** SyringePasteExtruderSimple
 End Effector to extrude thick pastes difficult to extrude, up to 100ml capacity
 ![]()
-[Link to repo]()
+[Link to repo](3DPRINT-SyringePasteExtruderGearBoxHighPowerNema23/README.md)
 
 ### Perilstatic Liquid Extruder
 
