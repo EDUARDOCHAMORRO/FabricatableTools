@@ -10,6 +10,12 @@ We want to enable students to build their own tools, to expand their own capabil
 
 [Link to all the endeffector 3d models(to use for robotic visualization)](ExtruderCollection.3dm)
 
+### Minipellet extruder
+
+End Effector to extrude pellets at around 500 to 700gr and hour
+![](3DPRINT-MiniPelletExtruder/img/render.png)
+[Link to repo](3DPRINT-MiniPelletExtruder/README.md)
+
 ### Syringe Paste Extruder
 
 End Effector to extrude really liquid pastes or fluids up to 100ml capacity
