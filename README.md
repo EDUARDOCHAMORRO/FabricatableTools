@@ -10,6 +10,13 @@ We want to enable students to build their own tools, to expand their own capabil
 
 [Link to all the endeffector 3d models(to use for robotic visualization)](ExtruderCollection.3dm)
 
+### 3 Axis Teaching Tool
+
+End Effector to mount on robo arms and show the 3 axis movements to new users (designed for Kuka KR16-2)
+To modify for other robots looks for the flange design in this same repo.
+![](3DPRINT-KukaKr16-2/3DPRINT-KukaKr16-2.jpg)
+[Link to repo](3DPRINT-KukaKr16-2/README.md)
+
 ### Minipellet extruder
 
 End Effector to extrude pellets at around 500 to 700gr and hour
@@ -111,6 +118,13 @@ Box to host the electronics of a [CNC 300-500w spindle](https://www.aliexpress.c
 
 ---
 ## ARDUINO CODES
+
+### Base code of WaspPellet extruder Controlbox
+
+WorkCode of the rewired wasp pellet extruder of Iaac/Fablab Barcelona 2020
+![](CODE-WaspPelletExtruder/img/wasp.jpg)
+[Link to repo](CODE-WaspPelletExtruder/README.md)
+
 
 ### Move an stepper motor with a potentiometer
 
