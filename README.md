@@ -10,6 +10,12 @@ We want to enable students to build their own tools, to expand their own capabil
 
 [Link to all the endeffector 3d models(to use for robotic visualization)](ExtruderCollection.3dm)
 
+### Seringe Holder 300-400ml for ABB-UR table robots
+
+End Effector to mount on robot arms and print with industrial adhesive dispensers of 300-400ml
+![](3DPRINT-CartridgeMountABB/imgmount.jpg)
+[Link to repo](3DPRINT-CartridgeMountABB/README.md)
+
 ### 3 Axis Teaching Tool
 
 End Effector to mount on robo arms and show the 3 axis movements to new users (designed for Kuka KR16-2)
