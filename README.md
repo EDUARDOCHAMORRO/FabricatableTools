@@ -13,7 +13,7 @@ We want to enable students to build their own tools, to expand their own capabil
 ### Seringe Holder 300-400ml for ABB-UR table robots
 
 End Effector to mount on robot arms and print with industrial adhesive dispensers of 300-400ml
-![](3DPRINT-CartridgeMountABB/imgmount.jpg)
+![](3DPRINT-CartridgeMountABB/img/imgmount.jpg)
 [Link to repo](3DPRINT-CartridgeMountABB/README.md)
 
 ### 3 Axis Teaching Tool
