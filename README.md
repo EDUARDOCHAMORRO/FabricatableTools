@@ -10,10 +10,21 @@ We want to enable students to build their own tools, to expand their own capabil
 
 [Link to all the endeffector 3d models(to use for robotic visualization)](ExtruderCollection.3dm)
 
+
+### Filament-TripleExtruder-EndEffector
+
+End Effector to extrude 3 lines of filamente to output a 2-3mm thick plastic  at around 500gr and hour
+CAPABLE OF NON PLANAR PRINTING
+This is due to a really thin noozle point
+
+![](3DPRINT-TripleFilamentExtruder/img.jpg)
+[Link to repo](3DPRINT-TripleFilamentExtruder/README.md)
+
 ### 3 Axis Teaching Tool
 
 End Effector to mount on robo arms and show the 3 axis movements to new users (designed for Kuka KR16-2)
 To modify for other robots looks for the flange design in this same repo.
+
 ![](3DPRINT-KukaKr16-2/3DPRINT-KukaKr16-2.jpg)
 [Link to repo](3DPRINT-KukaKr16-2/README.md)
 
